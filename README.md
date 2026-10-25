@@ -1,6 +1,9 @@
 **Hi there, I'm Ayla!**
+
 🎓 I'm currently studying **Network Computer Systems Administration (ASIR)** in Barcelona, Spain.
+
 💻 Throughout my studies, I've been gaining hands-on experience in systems administration, networking, virtualization, and IT infrastructure.
+
 🌱 I'm always interested in learning new technologies and improving my technical skills. I'm also interested in **web development and frontend technologies**, which I plan to explore further alongside my studies.
 
 ## 🛠️ Technologies & Skills
