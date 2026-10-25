@@ -40,7 +40,9 @@
 
 ## 🎯 Currently
 📚 Completing my ASIR studies.
+
 🔍 Looking for an internship opportunity in IT and systems administration.
+
 💡 Exploring my interest in frontend development and planning to develop my skills in this area.
 
 ## 🌷 A Little About Me
