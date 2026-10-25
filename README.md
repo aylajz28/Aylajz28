@@ -39,9 +39,9 @@
 - Deployment and configuration of web applications in practical environments.
 
 ## 🎯 Currently
-- 📚 Completing my ASIR studies.
-- 🔍 Looking for an internship opportunity in IT and systems administration.
-- 💡 Exploring my interest in frontend development and planning to develop my skills in this area.
+📚 Completing my ASIR studies.
+🔍 Looking for an internship opportunity in IT and systems administration.
+💡 Exploring my interest in frontend development and planning to develop my skills in this area.
 
 ## 🌷 A Little About Me
 I enjoy solving problems, learning how technology works, and discovering new ways to combine technical knowledge with creativity.
